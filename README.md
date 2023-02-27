@@ -1,6 +1,6 @@
 <h2 align="center">Supporting Nats.io</h2>
 
-It is Nats.io support for [enqueue/enqueue](https://github.com/php-enqueue/enqueue-dev)
+It is [Nats.io](https://nats.io/) support for [enqueue/enqueue](https://github.com/php-enqueue/enqueue-dev)
 
 ---
 
